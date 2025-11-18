@@ -5,7 +5,7 @@ A magical, fun, and interactive web-based ToDo List built with HTML, CSS, and Ja
 Hey! Welcome to your **fun & interactive ToDo List** 🌟  
 
 Add tasks, mark them as done ✅, and delete them with a click ❌.  
-Perfect for **tracking your daily awesomeness** 😎
+Perfect for **tracking your daily awesomeness** 
 
 ---
 
@@ -30,4 +30,4 @@ Perfect for **tracking your daily awesomeness** 😎
 
 ## 📄 License
 
-This project is licensed under **GNU GPLv3** (so share & enjoy! 😎)
+This project is licensed under **GNU GPLv3** 
